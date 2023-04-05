@@ -8,7 +8,6 @@ static void child() {
 	exit(EXIT_SUCCESS);
 }
 
-
 static void parent(pid_t pid_c){
 
 }
